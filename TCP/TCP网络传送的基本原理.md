@@ -9,3 +9,5 @@
 - 端口：端口的作用在于，不同的应用可以通过端口来获取到自己想要的数据。在 [0, 65535] 之间，之前有同事竟然把端口设置超过 65535 了，出现bug，也是人才。
 
 通过IP+端口的方式，很容易进行数据交换，如下图
+
+![](https://github.com/mhkz/juice/blob/master/TCP%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE/ip%2Bport.png)
