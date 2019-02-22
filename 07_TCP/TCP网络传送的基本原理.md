@@ -10,4 +10,7 @@
 
 通过IP+端口的方式，很容易进行数据交换，如下图
 
-![](https://github.com/mhkz/juice/blob/master/TCP%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE/ip%2Bport.png)
+![](https://user-gold-cdn.xitu.io/2019/2/19/169035c801569d22?w=516&h=151&f=png&s=8899)
+
+### TCP/IP 传输协议
+TCP 是一种可靠的
