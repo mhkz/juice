@@ -1,0 +1,14 @@
+{
+  "name": "11_websocket",
+  "version": "1.0.0",
+  "description": "连接步骤\r １　client　向服务器发送　http　连接请求\r ２",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^6.1.4"
+  }
+}
